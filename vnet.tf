@@ -8,6 +8,6 @@ module "network" {
 
   tags = {
     Billable = "true"
-    Department = "it"
+    Department = "IT"
   }
 }

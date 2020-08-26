@@ -7,7 +7,7 @@ module "network" {
   subnet_names        = ["subnet1", "subnet2", "subnet3"]
 
   tags = {
-    Billable = "true"
+    Billable = "true" 
     Department = "IT"
   }
 }
